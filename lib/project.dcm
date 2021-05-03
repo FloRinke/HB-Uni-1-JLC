@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CC1101-Ali
+F https://www.aliexpress.com/item/32472259186.html?spm=a2g0o.productlist.0.0.16eb1ce1Gheynz&algo_pvid=48bd72b3-87b0-4c3d-8a67-cc00581764a7&algo_expid=48bd72b3-87b0-4c3d-8a67-cc00581764a7-42&btsid=2100bdf016200726669482167e3db0&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+$ENDCMP
+#
 $CMP CC1101RGPR
 D CC1101RGPR
 F http://www.ti.com/lit/ds/symlink/cc1101.pdf
